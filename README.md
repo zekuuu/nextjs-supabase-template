@@ -86,7 +86,7 @@ Recommended: click **Use this template** on GitHub, then create a new repository
 You can also create a copy without Git history by using `degit`:
 
 ```bash
-npx degit xKurty06/nextjs-supabase-template my-app
+npx degit zekuuu/nextjs-supabase-template my-app
 cd my-app
 npm install
 ```
